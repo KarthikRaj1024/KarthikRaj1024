@@ -25,7 +25,7 @@ I enjoy understanding how things work behind the scenes and solving problems ste
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikraj-devaraj-548226269)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikkrak1024@gmail.com)
+
 
 ---
 
