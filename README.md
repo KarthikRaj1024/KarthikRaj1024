@@ -1,16 +1,34 @@
 ## Hi there 👋
 
 <!--
-**KarthikRaj1024/KarthikRaj1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Karthikraj Devaraj 👋
 
-Here are some ideas to get you started:
+### Computer Science Graduate | Aspiring Cloud Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science graduate building a career in cloud computing, with a focus on AWS.
+I enjoy understanding how systems work behind the scenes and solving problems step by step.
+
+- ☁️ Currently building hands-on AWS projects
+- 📚 Learning: AWS, Linux, Networking
+- 🎯 Looking for: Cloud Engineer internships and junior cloud roles in the UK
+- 📍 Based in: [Your City], UK
+
+## 🛠️ Skills
+
+**Cloud:** AWS (EC2, S3, IAM, VPC, Lambda)
+**Languages:** Python, SQL
+**Data:** Data Engineering, ETL Pipelines, Power BI
+**Tools:** Git, GitHub, Jira
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Project Name](link) | One-line description | AWS S3, CloudFront |
+| [Shopping-Data-Warehouse](https://github.com/KarthikRaj1024/Shopping-Data-Warehouse) | End-to-end data warehouse pipeline | SQL, Python |
+| [Income-predictor](https://github.com/KarthikRaj1024/Income-predictor) | Income prediction model | Python, Jupyter |
+
+## 📫 Connect with me
+
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Email: [your.email@example.com](mailto:your.email@example.com)
